@@ -1,12 +1,23 @@
 extends layout
 
 block content 
-    h1 hej din jävel  
-    p lider väldigt mycket
+    h1(class="text-center") Välkommen till
+    p(class="text-center") Bildterapihuset Brogatan 5 Umeå 
     
+    form(class="container justify-content-right")
+        input(type="text" class="form-control" id="validationDefaultUsername" placeholder="Name" aria-describedby="inputGroupPrepend2" required)
+        div(class="form-row")
+        div(class="col-md-6 mb-3")
+        label(for="validationDefault03" City)
+        input(type="text" class="form-control" id="validationDefault03" placeholder="Telefon" require) 
+        div(class="col-md-3 mb-3")
+        label(for="validationDefault04" State)
+        input(type="text" class="form-control" id="validationDefault04" placeholder="Email" required) 
+        div(class="col-md-3 mb-3")
+        label(for="validationDefault05" Zip)
+        input(type="text" class="form-control" id="validationDefault05" placeholder="Meddelande" required)
+        div(class="form-group")
+        div(class="form-check")
+        button(class="btn btn-primary" type="submit") Skicka
 
-    //TODO 
-    //Navbar med loga längst till vänster med 3 rubriker
-    //text
-    //kontaktforumlär 4 rutor och en knapp
-    //text med ikoner (google icons)
+        
