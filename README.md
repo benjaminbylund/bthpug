@@ -4,9 +4,11 @@
 Vad jag ska göra?
 * FÖrbered mapp och git för projektet - klart
 * skapa grundläggande layout - klart
-* Ändra font och göra texten större
-* ändra Färg på hemsidan och submit knappen
-* centrera texten på hemsidan
+* Ändra Färg på hemsidan och submit knappen -klart
+* Fyll footern med text -klart
+* Ändra font och göra texten större 
+* Centrera texten på hemsidan 
+* Påbörja Web designen
 
 
 ### Arbetsgång
@@ -26,3 +28,9 @@ Utverädering pass torsdag v 4
     * Stört på lektion och lyssnat på Daniel när han klagar
     * Gjort hemsidan lite finare helt enkelt
 
+Utverädering pass onsdag v 5
+* Idag så gick det bra med det som var jobbigt var att inse att jag får inte använda pågrund utav att de kräver en license. idag    så gjorde jag
+    * Gjorde en padding right på mina länkar i nav så att de placerades mer åt höger
+    * Ändrade färg på submit knappen och hemsidan.
+    * Började att ändra font men jag måste hitta nya som jag får använda
+    * Fyllde footern med text

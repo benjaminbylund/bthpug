@@ -1,0 +1,13 @@
+@font-face {
+    font-family: blackMelody;
+    src: url(Black_Melody.otf) format("opentype");
+  }
+
+  @font-face {
+    font-family:Myriad pro Bold Condensed ;
+    src: url("https://fonts.googleapis.com/css?family=PT+Sans") format("opentype");
+  }
+  
+    a, p, h1 {
+    font-family: blackMelody;
+  }
