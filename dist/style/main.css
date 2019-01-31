@@ -1,13 +1,12 @@
-@font-face {
-    font-family: blackMelody;
-    src: url(Black_Melody.otf) format("opentype");
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Satisfy');
+
+    h2 {
+        font-family: 'PT Sans', sans-serif;
   }
 
-  @font-face {
-    font-family:Myriad pro Bold Condensed ;
-    src: url("https://fonts.googleapis.com/css?family=PT+Sans") format("opentype");
-  }
+    p,a, h1{
+        font-family: 'Satisfy', cursive;
+    }
+
   
-    a, p, h1 {
-    font-family: blackMelody;
-  }

@@ -6,8 +6,8 @@ Vad jag ska göra?
 * skapa grundläggande layout - klart
 * Ändra Färg på hemsidan och submit knappen -klart
 * Fyll footern med text -klart
-* Ändra font och göra texten större 
-* Centrera texten på hemsidan 
+* Ändra font och göra texten större -klart 
+* Centrera texten på hemsidan -klart
 * Påbörja Web designen
 
 
@@ -34,3 +34,6 @@ Utverädering pass onsdag v 5
     * Ändrade färg på submit knappen och hemsidan.
     * Började att ändra font men jag måste hitta nya som jag får använda
     * Fyllde footern med text
+
+Utverädering pass torsdag v 5
+* 
