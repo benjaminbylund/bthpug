@@ -8,7 +8,12 @@ Vad jag ska göra?
 * Fyll footern med text -klart
 * Ändra font och göra texten större -klart 
 * Centrera texten på hemsidan -klart
-* Påbörja Web designen
+* Påbörja Web designen -klart
+* Lägga till lg på formuläret och andra ting 
+* Gör en ruta med text
+* Lägg till bakgrunds bild
+* Flytta rubrikerna längst till höger
+* 
 
 
 ### Arbetsgång
@@ -20,7 +25,7 @@ Utvärdering pass onsdag v 4
     * Blev ip och account bannad för en kort tidsperiod
 
 
-Utverädering pass torsdag v 4
+Utvärdering pass torsdag v 4
 * Idag så gick det helt okej hade lite problem med hur pug fungerar med det löste sig, jag gjorde
     * Gjorde ett git repo och pushade mina filer till git för jag är inte account bannad längre
     * Jag gjorde helheten av min hemsida
@@ -28,12 +33,18 @@ Utverädering pass torsdag v 4
     * Stört på lektion och lyssnat på Daniel när han klagar
     * Gjort hemsidan lite finare helt enkelt
 
-Utverädering pass onsdag v 5
+Utvärdering pass onsdag v 5
 * Idag så gick det bra med det som var jobbigt var att inse att jag får inte använda pågrund utav att de kräver en license. idag    så gjorde jag
     * Gjorde en padding right på mina länkar i nav så att de placerades mer åt höger
     * Ändrade färg på submit knappen och hemsidan.
     * Började att ändra font men jag måste hitta nya som jag får använda
     * Fyllde footern med text
 
-Utverädering pass torsdag v 5
-* 
+Utvärdering pass torsdag v 5
+* Idag så gick det inte särskilt bra, idag så gjorde jag
+    * Ändra font och göra texten större 
+    * Centrera texten på hemsidan 
+    * Påbörja Web designen 
+ 
+
+//TODO Utvärdering pass torsdag v 6
