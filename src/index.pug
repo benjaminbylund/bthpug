@@ -1,28 +1,32 @@
 extends layout
 
-block content 
-    main.container
-        .row.bg-success.justify-content-center
-            h1(class="text-center") Välkommen till
-            p(class="text-center") Bildterapihuset Brogatan 5 Umeå
+block content
+    main.container.col-12.bg
+        .row.bg-success.justify-content-cente
+            h1.text-center Välkommen till  Bildterapihuset
+                br
+                spam.small Brogatan 5 Umeå
         
-        .row.justify-content-center
-            .col-lg-4.bg-warning
-                h2(class="text-justify-center") Kontaktformulär
-                form(class="container justify-content-right")
-                    input(type="text" class="form-control" id="validationDefaultUsername" placeholder="Name" aria-describedby="inputGroupPrepend2" required)
-                    div(class="form-row")
-                    div(class="col-md-6 mb-3")
-                    label(for="validationDefault03" City)
-                    input(type="text" class="form-control" id="validationDefault03" placeholder="Telefon" require) 
-                    div(class="col-md-3 mb-3")
-                    label(for="validationDefault04" State)
-                    input(type="text" class="form-control" id="validationDefault04" placeholder="Email" required) 
-                    div(class="col-md-3 mb-3")
-                    label(for="validationDefault05" Zip)
-                    input(type="text" class="form-control" id="validationDefault05" placeholder="Meddelande" required)
-                    div(class="form-group")
-                    div(class="form-check")
-                    button(class="btn bg-success btn-lg" type="submit") Skicka
+        .container
+            .row
+                .col-md-6.pr-5
+                    p Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque laboriosam modi qui obcaecati vero, doloremque laborum sapiente quidem soluta cumque earum et magnam aspernatur natus a harum nisi dicta! Molestiae.
+                .col-md-6.pl-5
+                    h2(class="text-justify-center") Kontaktformulär
+                    form(class="container justify-content-right")
+                        input(type="text" class="form-control" id="validationDefaultUsername" placeholder="Name" aria-describedby="inputGroupPrepend2" required)
+                        div(class="form-row")
+                        div(class="col-md-6 mb-3")
+                        label(for="validationDefault03" City)
+                        input(type="text" class="form-control" id="validationDefault03" placeholder="Telefon" require) 
+                        div(class="col-md-3 mb-3")
+                        label(for="validationDefault04" State)
+                        input(type="text" class="form-control" id="validationDefault04" placeholder="Email" required) 
+                        div(class="col-md-3 mb-3")
+                        label(for="validationDefault05" Zip)
+                        input(type="text" class="form-control" id="validationDefault05" placeholder="Meddelande" required)
+                        div(class="form-group")
+                        div(class="form-check")
+                        button(class="btn bg-success btn-lg" type="submit") Skicka
 
             

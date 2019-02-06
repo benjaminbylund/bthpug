@@ -1,12 +1,21 @@
 
 @import url('https://fonts.googleapis.com/css?family=PT+Sans|Satisfy');
 
-    h2 {
+    h2 p {
         font-family: 'PT Sans', sans-serif;
   }
 
-    p,a, h1{
+    a, h1{
         font-family: 'Satisfy', cursive;
     }
 
-  
+    .bg {
+        
+        background-image: url("../bilder/verne-ho-23882-unsplash.jpg");
+      }
+
+    .textBg{
+        background-color: white;
+        border-style: solid;
+        border-width: 5px;
+    }

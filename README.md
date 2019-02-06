@@ -9,10 +9,11 @@ Vad jag ska göra?
 * Ändra font och göra texten större -klart 
 * Centrera texten på hemsidan -klart
 * Påbörja Web designen -klart
+
 * Lägga till lg på formuläret och andra ting 
 * Gör en ruta med text
 * Lägg till bakgrunds bild
-* Flytta rubrikerna längst till höger
+* Flytta rubrikerna längst till höger på navbaren
 * 
 
 
@@ -46,5 +47,13 @@ Utvärdering pass torsdag v 5
     * Centrera texten på hemsidan 
     * Påbörja Web designen 
  
+
+Utvärdering pass onsdag v 6
+* Idag så gick helt okej, idag så gjorde jag
+    * Jag gjorde en ruta med text men det var fel praxis så den togs bort
+    * Gjorde så att formuläret placeras till höger när man har desktop versionen
+    * La till en bakgrundsbild och gjorde om storleken i ps
+    * Försökte ändra padding på olika saker, tyvärr så blev det lite framgång
+    * sedan togs en heldel bort pågrund utav fel praxis 
 
 //TODO Utvärdering pass torsdag v 6
