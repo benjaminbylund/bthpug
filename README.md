@@ -10,10 +10,10 @@ Vad jag ska göra?
 * Centrera texten på hemsidan -klart
 * Påbörja Web designen -klart
 
-* Lägga till lg på formuläret och andra ting 
-* Gör en ruta med text
-* Lägg till bakgrunds bild
-* Flytta rubrikerna längst till höger på navbaren
+* Lägga till lg på formuläret och andra ting (ungefär)
+* Gör en ruta med text -klart
+* Lägg till bakgrunds bild -klar
+* Flytta rubrikerna längst till höger på navbaren -klart (valt att ändra)
 * 
 
 
@@ -56,4 +56,25 @@ Utvärdering pass onsdag v 6
     * Försökte ändra padding på olika saker, tyvärr så blev det lite framgång
     * sedan togs en heldel bort pågrund utav fel praxis 
 
-//TODO Utvärdering pass torsdag v 6
+Utvärdering pass torsdag v 6
+* Idag gick det helt okej, idag så gjorde jag
+    * Jag fixade min storlek på bilden
+    * Jag ändrade och gjorde en grå bakgrund på texten.
+    * Försökte fixa footern gick inte så bra.
+    * Tog bort onödigt kod som inte gjorde något.
+    * Installerade sass och generare sass
+
+Utvärdering pass onsdag v 7 
+* Idag så gick det bra, idag så gjorde jag
+    * Jag tänkte över min design och bestämde att jag skulle ha länkarna till andra sidor till vänster, för att när man läser
+    så läser man från höger till vänster.
+    * Fixade så att min footer funkar både i desktop och mobil
+    * :)
+
+Redovisning feedback
+ * behöver linjera 
+ * Ändra storleken på footer
+ * Generera fram 3 fonts med hjälp av font joy
+ * Göra större spacing mellan loggan och rubrikerna.
+ * Ändra så att det är 4 col istället för 7 men då funkar det inte så jag vet inte varför jag ska ta bort något som funkar för att ersätta med något som inte gör.
+ 

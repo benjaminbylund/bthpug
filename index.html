@@ -35,14 +35,17 @@
           <div class="col-md-6 pl-5">
             <h2 class="text-justify-center">Kontaktformulär</h2>
             <form class="container justify-content-right">
-              <input class="form-control" type="text" id="validationDefaultUsername" placeholder="Name"/>
+              <input class="form-control" type="text" id="validationDefaultUsername" placeholder="Name" aria-describedby="inputGroupPrepend2" required="required"/>
               <div class="form-row"></div>
               <div class="col-md-6 mb-3"></div>
-              <input class="form-control" type="text" id="validationDefault03" placeholder="Telefon"/>
+              <label for="validationDefault03" City="City"></label>
+              <input class="form-control" type="text" id="validationDefault03" placeholder="Telefon" require="require"/>
               <div class="col-md-3 mb-3"></div>
-              <input class="form-control" type="text" id="validationDefault04" placeholder="Email"/>
+              <label for="validationDefault04" State="State"></label>
+              <input class="form-control" type="text" id="validationDefault04" placeholder="Email" required="required"/>
               <div class="col-md-3 mb-3"></div>
-              <input class="form-control" type="text" id="validationDefault05" placeholder="Meddelande"/>
+              <label for="validationDefault05" Zip="Zip"></label>
+              <input class="form-control" type="text" id="validationDefault05" placeholder="Meddelande" required="required"/>
               <div class="form-group"></div>
               <div class="form-check"></div>
               <button class="btn bg-success btn-lg" type="submit">Skicka</button>
